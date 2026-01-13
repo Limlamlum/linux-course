@@ -1,4 +1,12 @@
-# Linuxin asentaminen virtualboxiin
+# x) Raportointi
+
+- Raportoi samalla kun teet
+
+- raportoi mahdollisimman tarkasti kaikki vaiheet, myös virheet
+
+- tee helppolukuiseksi ja muista lähdevitteet
+
+# a) Linuxin asentaminen virtualboxiin
 
 - Lataan debian-live 13.3.0 version ja avaan virtualboxin. Omassa koneessani on windows käyttöjärjestelmä.
 
@@ -46,5 +54,4 @@ Tehtävänannot: https://terokarvinen.com/linux-palvelimet/#schedule
 
 Debian lataussivu: https://www.debian.org/distrib/
 
-123
 
