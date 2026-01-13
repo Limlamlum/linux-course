@@ -54,4 +54,5 @@ Tehtävänannot: https://terokarvinen.com/linux-palvelimet/#schedule
 
 Debian lataussivu: https://www.debian.org/distrib/
 
+Raportin kirjoittaminen: https://terokarvinen.com/2006/raportin-kirjoittaminen-4/
 
